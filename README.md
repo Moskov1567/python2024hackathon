@@ -38,3 +38,10 @@ URL: https://github.com/yijiechoo16163/PSC-python-hackathon-2024/
 3. Loh Je Le
 
 URL: https://github.com/diamondex187/pythonhackathon2024
+
+## Team Nexus
+1. Visakan Vetha
+2. Victor Chng Jong Jun
+3. Nicholas Lam Jin Kit
+
+URL: https://github.com/VisakanTheGamer/our-snake_game.git
